@@ -1,6 +1,6 @@
 {
-    "name": "Deadly Spam Bot",
-    "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
+    "name": "kaal Spam Bot",
+    "description": "MOST POWERFUL + STABLE SPAM BOTS",
     "logo": "",
     "keywords": [
         "telegram",
@@ -9,9 +9,9 @@
         "deadlySameer",
         "SpamBots"
     ],
-    "repository": "https://t.me/Deadly-Fighters",
-    "website": "https://t.me/Deadly-Fighters",
-    "success_url": "https://t.me/deadly-fighters",
+    "repository": "https://t.me/kaalriders",
+    "website": "https://t.me/kaalriders",
+    "success_url": "https://t.me/kaalriders",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -20,7 +20,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "",
+        "value": "https://telegra.ph/file/be526220ab16ee5504652.jpg",
         "required": false
       },
       "API_HASH": {
