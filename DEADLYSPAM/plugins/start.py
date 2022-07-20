@@ -6,24 +6,24 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from DEADLYSPAM import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID
 
-DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/be526220ab16ee5504652.jpg"
 
 Deadly_Button = [
         [
-        Button.url("• Sᴜᴘᴘᴏʀᴛ •", "https://t.me/Deadly_Spam_Bot")
+        Button.url("• Sᴜᴘᴘᴏʀᴛ •", "https://t.me/kaalriders")
         ],
         [
-        Button.url("• Mᴀɪɴᴛᴀɪɴ Bʏ •", "https://t.me/Deadly_spambot")
+        Button.url("• 𝐎𝐖𝐍𝐄𝐑 •", "https://t.me/garw_mishra")
         ]
         ]
                
 DeadlyX_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Deadly_spambot"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/deadly_spam_bot")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Bad_boy_kaal"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/kaalriders")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://github.com/Team-Deadly/DEADLY-SPAMBOT")
+        Button.url("• Rᴇᴘᴏ •", "https://github.com/garwmishra/K44LSPAM")
         ]
         ]
         
